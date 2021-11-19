@@ -1,4 +1,5 @@
 
+
 body{
     font-family: inconsolata;
    
@@ -17,4 +18,19 @@ p {
     padding: 20px;
     text-align: center; 
 }
+
+
+body{
+    background-color: #99A6B0;
+}
+h1{
+   
+    background-color: #EBCDCC;
+    
+  }
+  h2{
+   
+    background-color: #EBCDCC;
+    
+  } 
 
