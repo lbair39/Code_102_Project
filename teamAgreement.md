@@ -1,6 +1,7 @@
+
 # Team Agreement 
 ## Group Members 
-- Lily Bair 
+- Lily Bair , Jaid Hammack 
 ## When 
 - In class 
 ## What is the project ?
@@ -20,4 +21,6 @@
 - Use a lot of W3 schools for style 
 -----------------------------
 - By referencing class notes and past experience with the prompts an conditionals 
+
+
 
