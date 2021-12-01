@@ -1,8 +1,9 @@
 
 
-body {
-    font-family:Inconsolata;
-    background-color: cornflowerblue
+
+body{
+   width: 550px;
+   background-color: cornflowerblue;
 }
 #heading {
     text-align:center;
@@ -14,14 +15,12 @@ body {
     width: 550px;
     margin: auto; 
     margin-top: 20px;
-
 }
 #p1 {
     border: solid rgb(10, 10, 112) 5px;
     border-radius: 25px;
     padding: 20px;
-    text-align: center; 
-    margin-top: 10px; 
+    text-align: center;
     background-color: bisque;
     font-family:Inconsolata;
     width:550px;
